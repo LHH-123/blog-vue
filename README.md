@@ -1,4 +1,4 @@
-# vue-project
+## Description
 
 > A simple project that uses Vue.js、Element-UI、vue-resource and vue-router;
 
