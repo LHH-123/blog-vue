@@ -7,7 +7,7 @@
 > This blog can register, login and write articles,and I still continue to improve them。
 
 
-## Run Project
+## Build Setup
 
 
 ``` bash
